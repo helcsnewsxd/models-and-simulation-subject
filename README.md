@@ -1,3 +1,8 @@
+> [!note]
+> This repository contains theoretical notes, practical exercises, and a final project developed for the Modeling and Simulation course of the Computer Science degree at FAMAF – Universidad Nacional de Córdoba.
+>
+> All materials are in Spanish, as they were written for academic use and submission.
+
 # Modelos y Simulación 2024
 
 ## Edición 2024
